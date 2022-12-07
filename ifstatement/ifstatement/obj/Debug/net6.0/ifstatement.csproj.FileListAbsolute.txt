@@ -1,0 +1,15 @@
+D:\C#\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.exe
+D:\C#\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.deps.json
+D:\C#\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.runtimeconfig.json
+D:\C#\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.dll
+D:\C#\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.pdb
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.csproj.AssemblyReference.cache
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.AssemblyInfoInputs.cache
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.AssemblyInfo.cs
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.csproj.CoreCompileInputs.cache
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.dll
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\refint\ifstatement.dll
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.pdb
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.genruntimeconfig.cache
+D:\C#\ifstatement\ifstatement\obj\Debug\net6.0\ref\ifstatement.dll

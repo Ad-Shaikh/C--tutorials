@@ -1,0 +1,15 @@
+D:\C#\ExpMethod\ExpMethod\bin\Debug\net6.0\ExpMethod.exe
+D:\C#\ExpMethod\ExpMethod\bin\Debug\net6.0\ExpMethod.deps.json
+D:\C#\ExpMethod\ExpMethod\bin\Debug\net6.0\ExpMethod.runtimeconfig.json
+D:\C#\ExpMethod\ExpMethod\bin\Debug\net6.0\ExpMethod.dll
+D:\C#\ExpMethod\ExpMethod\bin\Debug\net6.0\ExpMethod.pdb
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.csproj.AssemblyReference.cache
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.AssemblyInfoInputs.cache
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.AssemblyInfo.cs
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.csproj.CoreCompileInputs.cache
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.dll
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\refint\ExpMethod.dll
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.pdb
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ExpMethod.genruntimeconfig.cache
+D:\C#\ExpMethod\ExpMethod\obj\Debug\net6.0\ref\ExpMethod.dll

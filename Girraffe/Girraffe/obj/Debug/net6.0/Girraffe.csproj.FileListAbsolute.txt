@@ -1,0 +1,15 @@
+D:\C#\Girraffe\Girraffe\bin\Debug\net6.0\Girraffe.exe
+D:\C#\Girraffe\Girraffe\bin\Debug\net6.0\Girraffe.deps.json
+D:\C#\Girraffe\Girraffe\bin\Debug\net6.0\Girraffe.runtimeconfig.json
+D:\C#\Girraffe\Girraffe\bin\Debug\net6.0\Girraffe.dll
+D:\C#\Girraffe\Girraffe\bin\Debug\net6.0\Girraffe.pdb
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.csproj.AssemblyReference.cache
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.AssemblyInfoInputs.cache
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.AssemblyInfo.cs
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.csproj.CoreCompileInputs.cache
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.dll
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\refint\Girraffe.dll
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.pdb
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\Girraffe.genruntimeconfig.cache
+D:\C#\Girraffe\Girraffe\obj\Debug\net6.0\ref\Girraffe.dll

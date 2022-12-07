@@ -1,0 +1,12 @@
+D:\C#\MySuperBank\BankyStuffLibrary\bin\Debug\net6.0\BankyStuffLibrary.deps.json
+D:\C#\MySuperBank\BankyStuffLibrary\bin\Debug\net6.0\BankyStuffLibrary.dll
+D:\C#\MySuperBank\BankyStuffLibrary\bin\Debug\net6.0\BankyStuffLibrary.pdb
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.csproj.AssemblyReference.cache
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.AssemblyInfoInputs.cache
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.AssemblyInfo.cs
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.dll
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\refint\BankyStuffLibrary.dll
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\BankyStuffLibrary.pdb
+D:\C#\MySuperBank\BankyStuffLibrary\obj\Debug\net6.0\ref\BankyStuffLibrary.dll

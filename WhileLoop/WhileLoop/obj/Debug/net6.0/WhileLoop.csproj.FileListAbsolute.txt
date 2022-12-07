@@ -1,0 +1,15 @@
+D:\C#\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.exe
+D:\C#\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.deps.json
+D:\C#\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.runtimeconfig.json
+D:\C#\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.dll
+D:\C#\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.pdb
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.AssemblyReference.cache
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfoInputs.cache
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfo.cs
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.CoreCompileInputs.cache
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.dll
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\refint\WhileLoop.dll
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.pdb
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.genruntimeconfig.cache
+D:\C#\WhileLoop\WhileLoop\obj\Debug\net6.0\ref\WhileLoop.dll

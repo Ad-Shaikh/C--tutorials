@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BankyStuffLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BankyStuffLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankyStuffLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankyStuffLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BankyStuffLibrary/BankyStuffLibrary.csproj",
+      "msbuildProject": "../BankyStuffLibrary/BankyStuffLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BankyStuffLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\adnan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+      "projectName": "MySuperBank",
+      "projectPath": "D:\\C#\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+      "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\MySuperBank\\MySuperBank\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+              "projectPath": "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

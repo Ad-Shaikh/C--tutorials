@@ -1,0 +1,15 @@
+D:\C#\ObjMethod\ObjMethod\bin\Debug\net6.0\ObjMethod.exe
+D:\C#\ObjMethod\ObjMethod\bin\Debug\net6.0\ObjMethod.deps.json
+D:\C#\ObjMethod\ObjMethod\bin\Debug\net6.0\ObjMethod.runtimeconfig.json
+D:\C#\ObjMethod\ObjMethod\bin\Debug\net6.0\ObjMethod.dll
+D:\C#\ObjMethod\ObjMethod\bin\Debug\net6.0\ObjMethod.pdb
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.csproj.AssemblyReference.cache
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.AssemblyInfoInputs.cache
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.AssemblyInfo.cs
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.csproj.CoreCompileInputs.cache
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.dll
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\refint\ObjMethod.dll
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.pdb
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ObjMethod.genruntimeconfig.cache
+D:\C#\ObjMethod\ObjMethod\obj\Debug\net6.0\ref\ObjMethod.dll
