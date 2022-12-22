@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {}
+    "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {}
   },
   "projects": {
-    "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+    "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "projectUniqueName": "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
         "projectName": "BankyStuffLibrary",
-        "projectPath": "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "projectPath": "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
         "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\MySuperBank\\BankyStuffLibrary\\obj\\",
+        "outputPath": "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

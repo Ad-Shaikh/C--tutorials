@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6L29FMnEd0FjT8qnGgaE7l1ztvp18Rj4zGGEaBdve7z4GRvn+RJ0v0AGRidx/0zhTNOF4m73zk6QebWIZMVwqA==",
+  "dgSpecHash": "WD9m5Bg+3qem1hb5NaPS5VdcbyvOGzmDfFMcd6jNEawRc49FaZ1Wzur6qchph45VGAKUYeiPXBsSPVVjtSXosA==",
   "success": true,
-  "projectFilePath": "D:\\C#\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+  "projectFilePath": "D:\\projects\\C#--tutorials\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

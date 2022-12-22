@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+      "projectUniqueName": "D:\\projects\\C#--tutorials\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
       "projectName": "MySuperBank",
-      "projectPath": "D:\\C#\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+      "projectPath": "D:\\projects\\C#--tutorials\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
       "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\MySuperBank\\MySuperBank\\obj\\",
+      "outputPath": "D:\\projects\\C#--tutorials\\MySuperBank\\MySuperBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
-              "projectPath": "D:\\C#\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj"
+            "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+              "projectPath": "D:\\projects\\C#--tutorials\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
